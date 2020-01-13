@@ -20,7 +20,9 @@
   
 2.3. Создание презентации-глоссария на тему «Гибкая методология SCRUM» средствами веб-технологий HTML, CSS, JS (Web-based slideshow) и оформление его в виде веб-сайта с использованием сервиса GitHub Pages.
 
-  <img src="" width="40%">
+  Слайд "Sprint Goal": https://ctel-prj-mng.github.io/scrum-glossary/#11
+  
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t2-MarinaSvistunova/blob/master/img/slide.png" width="60%">
   
 ## ВСР https://moodle.herzen.spb.ru/mod/page/view.php?id=123168
 
