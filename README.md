@@ -5,10 +5,25 @@
 
 2.1. Создание интеллект-карты на тему «Программная инженерия. Модели и методологии разработки» (выделение подсистем и связей между ними).
  
+ <img src="https://github.com/ctel-prj-mng/3-ivt-17-t2-MarinaSvistunova/blob/master/img/mindmapUPP.svg" width="80%">
+ 
 2.2. Создание дизайн-макета программного продукта для одного из предложенных вариантов (игра для смартфона или браузера) или собственного продукта, согласованного с преподавателем.
+
+    Desktop
+  
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t2-MarinaSvistunova/blob/master/img/desktop.png" width="50%">
+
+    Mobile
+
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t2-MarinaSvistunova/blob/master/img/mobile.png" width="20%">
+
   
 2.3. Создание презентации-глоссария на тему «Гибкая методология SCRUM» средствами веб-технологий HTML, CSS, JS (Web-based slideshow) и оформление его в виде веб-сайта с использованием сервиса GitHub Pages.
 
+  <img src="" width="40%">
+  
 ## ВСР https://moodle.herzen.spb.ru/mod/page/view.php?id=123168
 
 2.1. Создание первоначального макета программного продукта «Гостевая книга» с использованием сервиса визуального проектирования и публичное его представление.
+
+  <img src="" width="40%">
