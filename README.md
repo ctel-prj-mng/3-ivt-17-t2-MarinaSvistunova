@@ -32,4 +32,4 @@
   
   [Проект](https://prottapp.com/p/677e3b)
   
-  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t2-MarinaSvistunova/blob/master/img/Sign%20up.png" width="40%">
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t2-MarinaSvistunova/blob/master/img/Sign%20up.png" width="60%">
