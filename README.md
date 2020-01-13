@@ -27,5 +27,9 @@
 ## ВСР https://moodle.herzen.spb.ru/mod/page/view.php?id=123168
 
 2.1. Создание первоначального макета программного продукта «Гостевая книга» с использованием сервиса визуального проектирования и публичное его представление.
-
-  <img src="" width="40%">
+  
+  Для реализации был использован сервис [Prott](https://prottapp.com/)
+  
+  [Проект](https://prottapp.com/p/677e3b)
+  
+  <img src="https://github.com/ctel-prj-mng/3-ivt-17-t2-MarinaSvistunova/blob/master/img/Sign%20up.png" width="40%">
